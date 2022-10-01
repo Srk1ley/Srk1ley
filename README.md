@@ -4,6 +4,13 @@
 
 <p align="center"> 
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://i.imgur.com/MflEq5a.png"/> </a>
+    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://i.imgur.com/MflEq5a.png"/> </a>
+    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://i.imgur.com/MflEq5a.png"/> </a>
+    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://i.imgur.com/MflEq5a.png"/> </a>
+    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://i.imgur.com/MflEq5a.png"/> </a>
+    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://i.imgur.com/MflEq5a.png"/> </a>
+    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://i.imgur.com/MflEq5a.png"/> </a>
+    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://i.imgur.com/MflEq5a.png"/> </a>
 </p>
 
 ## 📈 Github Stats
