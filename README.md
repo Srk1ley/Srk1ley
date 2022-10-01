@@ -3,12 +3,7 @@
 ## 🚀 Languages and Tools:
 
 <p align="center"> 
-    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://iconape.com/wp-content/png_logo_vector/visual-studio-code.png"/> </a>
-    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://iconape.com/wp-content/png_logo_vector/visual-studio-code.png"/> </a>
-    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://iconape.com/wp-content/png_logo_vector/visual-studio-code.png"/> </a>
-    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://iconape.com/wp-content/png_logo_vector/visual-studio-code.png"/> </a>
-    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://iconape.com/wp-content/png_logo_vector/visual-studio-code.png"/> </a>
-    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://iconape.com/wp-content/png_logo_vector/visual-studio-code.png"/> </a>
+    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://i.imgur.com/MflEq5a.png"/> </a>
 </p>
 
 ## 📈 Github Stats
