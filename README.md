@@ -11,6 +11,9 @@
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://i.imgur.com/MflEq5a.png"/> </a>
     <a href="https://azure.microsoft.com/en-us/products/devops/" target="_blank"> <img src="https://i.imgur.com/zDhbbHq.png"/> </a>
     <a href="https://www.bugzilla.org/" target="_blank"> <img src="https://i.imgur.com/UgvIUpG.png"/> </a>
+    <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/> </a>
+    <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"/> </a>
+    <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"/> </a>
 </p>
 
 ## 📈 Github Stats
