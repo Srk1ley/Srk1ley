@@ -12,9 +12,8 @@
     <a href="https://azure.microsoft.com/en-us/products/devops/" target="_blank"> <img src="https://i.imgur.com/zDhbbHq.png"/> </a>
     <a href="https://www.bugzilla.org/" target="_blank"> <img src="https://i.imgur.com/UgvIUpG.png"/> </a>
     <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://i.imgur.com/wDVkgR9.png"/> </a>
-    <a href="https://www.illustrator.com/en" target="_blank"> <img src="https://i.imgur.com/aj0z9GM.png"/> </a>
-    <a href="https://www.adobe.com/products/indesign.html" target="_blank"> <img src="https://i.imgur.com/sHyKbzn.png"/> </a>
-    <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://i.imgur.com/RZQ6mBO.png"/> </a>
+    <a href="https://www.illustrator.com/en" target="_blank"> <img src="https://i.imgur.com/bZ4NZWF.png"/> </a>
+    <a href="https://www.adobe.com/products/indesign.html" target="_blank"> <img src="https://i.imgur.com/qfLvSG3.png"/> </a>
     <a href="https://www.figma.com/" target="_blank"> <img src="https://i.imgur.com/AFzcPp6.png"/> </a>
 </p>
 
